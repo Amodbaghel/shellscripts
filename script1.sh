@@ -5,4 +5,5 @@ echo "Hello batch-24, We are learning git"
 echo "Please complete your practicals on daily basis"
 echo "How are you?"
 echo "Wife :i dont want to go trip "
+echo "Husband:i want to go on trip"
 
