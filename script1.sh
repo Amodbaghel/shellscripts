@@ -5,7 +5,7 @@ echo "Hello batch-24, We are learning git"
 echo "Please complete your practicals on daily basis"
 echo "hello"
 echo "happy holi"
-
+echo "good morning"
 
 
 
